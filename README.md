@@ -1,7 +1,8 @@
-Customer Portal with React 16 and Redux 4
-Author: Jose Alfonso Corominas
-Email: jatcorominas@gmail.com
-Cell: +1-647-618-2080
+# Customer Portal with React 16 and Redux 4
+
+## Author: Jose Alfonso Corominas
+## Email:  jatcorominas@gmail.com
+## Cell:   +1-647-618-2080
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
