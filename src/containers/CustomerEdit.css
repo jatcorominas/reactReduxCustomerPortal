@@ -1,0 +1,24 @@
+@media all and (min-width: 480px) {
+  .CustomerEdit {
+    padding: 60px 0;
+
+  }
+
+  .CustomerEdit form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .CustomerEdit h1 {
+  	text-align: center;
+  }
+
+  .CustomerEdit button {
+    margin-right:16px;
+  }
+
+  .CustomerEdit button:last-child {
+    margin-right:0px;
+  }
+
+}

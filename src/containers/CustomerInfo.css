@@ -1,0 +1,35 @@
+@media all and (min-width: 480px) {
+  .CustomerInfo {
+    padding: 60px 0;
+
+  }
+
+  .CustomerInfo form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .CustomerInfo h1 {
+    text-align: center;
+  }
+
+  .CustomerInfo h2 {
+  	text-align: center;
+  }
+
+   .CustomerInfo p {
+    text-align: center;
+  }
+
+  .CustomerInfo button {
+    margin-left:16px;
+    margin-right:16px;
+  }
+
+  .CustomerInfo button:last-child {
+    margin-left:0px;
+    margin-right:0px;
+
+  }
+
+}
